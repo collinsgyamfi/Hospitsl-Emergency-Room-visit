@@ -1,0 +1,501 @@
+patient_age,gender,triage_level,visit_reason,wait_time_minutes
+32,Male,3,Fever,22
+35,Male,1,Burns,8
+22,Male,1,Dizziness,5
+82,Male,2,Heart Attack,54
+71,Male,4,Burns,13
+18,Male,4,Cut/Laceration,13
+37,Male,3,Minor Injury,17
+66,Male,3,Trauma,34
+51,Male,4,Fracture,8
+66,Male,3,Seizure,34
+64,Male,1,Headache,12
+47,Female,1,Fever,15
+30,Female,3,Vomiting,35
+64,Male,3,Trauma,21
+52,Male,2,Fracture,35
+38,Female,4,Back Pain,25
+46,Female,1,Fever,15
+22,Female,4,Back Pain,7
+45,Female,2,Seizure,51
+68,Female,2,Back Pain,28
+49,Female,4,Burns,17
+64,Male,2,Asthma Attack,51
+29,Male,1,Severe Bleeding,12
+38,Female,1,Severe Injury,8
+77,Female,1,Stroke,13
+32,Female,3,Minor Injury,24
+73,Male,4,Chest Pain,13
+82,Male,1,Seizure,6
+82,Male,2,Trauma,30
+85,Male,3,Allergic Reaction,15
+32,Female,3,Fever,16
+48,Male,1,Broken Bone,9
+26,Male,2,Stroke,50
+39,Female,4,Dizziness,22
+43,Female,4,Stroke,25
+65,Female,4,Minor Injury,12
+46,Male,3,Chest Pain,33
+47,Male,1,Shortness of Breath,13
+25,Male,1,Headache,15
+60,Male,2,Back Pain,51
+45,Male,4,Fever,20
+70,Male,1,Minor Injury,12
+73,Female,4,Nausea,19
+24,Male,1,Severe Injury,13
+61,Male,2,Dizziness,32
+75,Male,4,Abdominal Pain,13
+77,Male,1,Vomiting,14
+30,Male,1,Shortness of Breath,14
+48,Male,4,Allergic Reaction,20
+45,Female,1,Abdominal Pain,8
+18,Female,3,Dehydration,40
+76,Female,4,Heart Attack,22
+80,Male,2,Sprain,33
+25,Male,3,Headache,16
+79,Male,1,Asthma Attack,3
+41,Male,1,Stroke,15
+48,Female,1,Burns,5
+23,Male,4,Stroke,23
+84,Female,3,Dizziness,36
+58,Male,3,Severe Injury,19
+56,Female,3,Wound Infection,44
+27,Male,4,Poisoning,23
+30,Male,2,Asthma Attack,36
+34,Female,1,Fever,7
+54,Male,4,Fracture,14
+85,Male,3,Stroke,18
+35,Female,1,Minor Injury,13
+37,Female,3,Poisoning,21
+61,Male,3,Asthma Attack,30
+50,Male,1,Seizure,8
+53,Male,1,Cut/Laceration,14
+34,Female,2,Broken Bone,48
+72,Male,1,Shortness of Breath,13
+37,Male,3,Burns,32
+36,Female,2,Headache,39
+64,Male,3,Dizziness,36
+49,Male,3,Wound Infection,32
+70,Male,2,Abdominal Pain,31
+70,Male,2,Broken Bone,41
+70,Male,3,Abdominal Pain,40
+31,Female,1,Allergic Reaction,5
+43,Female,3,Sprain,41
+47,Male,1,Stroke,5
+69,Female,3,Shortness of Breath,45
+53,Female,4,Stroke,22
+60,Male,1,Back Pain,4
+51,Male,1,Poisoning,8
+62,Female,4,Poisoning,21
+32,Female,2,Back Pain,22
+73,Male,2,Trauma,47
+26,Female,3,Stroke,42
+33,Female,3,Stroke,28
+59,Female,3,Fracture,19
+42,Female,4,Stroke,10
+56,Female,1,Sprain,6
+44,Female,3,Vomiting,29
+74,Male,4,Dehydration,10
+28,Female,3,Shortness of Breath,41
+48,Female,2,Dehydration,32
+36,Male,1,Fever,9
+27,Female,4,Seizure,23
+42,Female,4,Severe Injury,12
+36,Male,1,Wound Infection,8
+46,Male,4,Headache,22
+49,Male,4,Severe Bleeding,19
+85,Female,4,Poisoning,21
+72,Female,2,Broken Bone,50
+75,Female,2,Seizure,37
+84,Female,2,Back Pain,48
+27,Female,2,Back Pain,41
+58,Male,2,Severe Bleeding,34
+67,Male,2,Shortness of Breath,46
+70,Female,4,Nausea,6
+44,Female,4,Wound Infection,23
+20,Female,4,Chest Pain,16
+56,Female,4,Fracture,22
+46,Female,2,Back Pain,47
+80,Male,4,Cut/Laceration,17
+39,Female,2,Poisoning,54
+21,Female,1,Shortness of Breath,12
+72,Male,4,Abdominal Pain,6
+51,Female,3,Dizziness,29
+59,Female,4,Back Pain,18
+50,Male,4,Chest Pain,22
+24,Female,2,Seizure,24
+23,Male,2,Dizziness,21
+37,Male,2,Allergic Reaction,27
+45,Female,3,Wound Infection,26
+39,Male,2,Sprain,26
+21,Female,4,Severe Injury,11
+27,Male,1,Heart Attack,14
+56,Male,1,Trauma,10
+72,Female,1,Asthma Attack,12
+61,Male,4,Allergic Reaction,8
+73,Female,4,Heart Attack,9
+73,Male,3,Poisoning,40
+79,Female,4,Broken Bone,23
+52,Female,2,Shortness of Breath,37
+75,Male,4,Burns,24
+66,Female,1,Allergic Reaction,15
+59,Male,4,Dizziness,16
+51,Female,3,Poisoning,37
+53,Male,2,Shortness of Breath,35
+70,Female,2,Heart Attack,50
+80,Female,1,Shortness of Breath,6
+46,Female,2,Sprain,57
+65,Female,3,Nausea,38
+60,Female,4,Back Pain,14
+50,Male,1,Broken Bone,5
+58,Male,2,Dizziness,33
+79,Female,3,Minor Injury,41
+42,Female,2,Trauma,31
+56,Male,2,Back Pain,22
+24,Female,2,Seizure,51
+31,Male,3,Allergic Reaction,30
+74,Female,2,Headache,36
+79,Male,1,Severe Injury,9
+27,Male,2,Severe Bleeding,56
+56,Male,2,Minor Injury,55
+71,Male,4,Vomiting,19
+56,Female,3,Burns,34
+25,Male,2,Seizure,33
+51,Male,2,Fever,31
+27,Male,1,Nausea,9
+78,Female,1,Fever,6
+54,Female,1,Stroke,5
+51,Male,4,Minor Injury,22
+46,Male,3,Severe Bleeding,17
+25,Male,3,Poisoning,38
+54,Female,1,Vomiting,13
+56,Female,3,Asthma Attack,32
+81,Female,1,Poisoning,2
+73,Female,3,Chest Pain,17
+47,Male,3,Burns,16
+40,Female,4,Back Pain,10
+73,Female,1,Allergic Reaction,7
+70,Female,3,Stroke,18
+38,Female,4,Heart Attack,20
+54,Female,1,Vomiting,3
+58,Female,3,Minor Injury,39
+69,Male,4,Nausea,6
+42,Female,4,Seizure,19
+24,Male,3,Fracture,19
+54,Female,4,Minor Injury,5
+48,Male,3,Fracture,15
+70,Male,2,Minor Injury,49
+33,Male,4,Heart Attack,14
+83,Female,4,Allergic Reaction,20
+49,Female,2,Severe Injury,32
+83,Male,1,Back Pain,14
+71,Female,3,Chest Pain,24
+56,Female,2,Vomiting,54
+79,Female,3,Fracture,39
+66,Female,3,Dizziness,37
+48,Female,2,Wound Infection,46
+23,Female,4,Heart Attack,17
+67,Male,4,Headache,9
+82,Female,1,Vomiting,3
+85,Female,1,Broken Bone,4
+70,Male,1,Allergic Reaction,14
+51,Female,4,Seizure,7
+60,Female,3,Seizure,37
+80,Male,1,Fever,12
+54,Male,1,Nausea,3
+30,Female,2,Heart Attack,39
+21,Male,3,Dehydration,16
+55,Female,3,Nausea,19
+49,Female,2,Abdominal Pain,31
+28,Female,2,Allergic Reaction,57
+36,Male,4,Seizure,13
+76,Female,1,Dehydration,9
+54,Male,1,Vomiting,7
+56,Female,3,Vomiting,42
+56,Male,4,Allergic Reaction,8
+48,Female,3,Burns,24
+55,Male,4,Back Pain,5
+24,Female,3,Wound Infection,40
+47,Female,2,Seizure,32
+50,Male,1,Seizure,12
+23,Female,4,Headache,23
+64,Male,1,Sprain,7
+71,Male,2,Severe Bleeding,54
+64,Female,2,Back Pain,50
+55,Female,1,Vomiting,3
+36,Male,4,Dehydration,22
+64,Male,4,Chest Pain,13
+33,Female,3,Stroke,38
+51,Female,3,Minor Injury,36
+47,Female,1,Poisoning,10
+59,Male,1,Seizure,15
+77,Female,4,Minor Injury,9
+23,Male,3,Allergic Reaction,18
+30,Male,2,Severe Injury,49
+65,Female,2,Nausea,26
+80,Female,3,Headache,37
+65,Male,4,Vomiting,12
+64,Male,3,Fracture,43
+63,Male,4,Back Pain,11
+33,Female,1,Stroke,5
+20,Male,3,Fever,19
+44,Male,2,Burns,33
+47,Female,2,Dehydration,58
+18,Female,2,Severe Bleeding,54
+50,Male,1,Stroke,15
+21,Male,1,Trauma,14
+48,Female,1,Abdominal Pain,6
+24,Male,4,Asthma Attack,8
+26,Female,4,Wound Infection,16
+83,Male,4,Asthma Attack,12
+23,Female,4,Seizure,5
+25,Female,4,Nausea,8
+80,Female,1,Shortness of Breath,7
+36,Male,2,Back Pain,59
+59,Female,3,Vomiting,31
+73,Male,1,Seizure,12
+45,Female,4,Fever,18
+61,Female,4,Nausea,8
+58,Female,3,Stroke,23
+65,Male,4,Shortness of Breath,7
+28,Male,4,Minor Injury,16
+34,Male,3,Stroke,18
+70,Female,4,Broken Bone,6
+54,Female,3,Minor Injury,33
+82,Male,2,Stroke,50
+46,Male,3,Fracture,26
+32,Female,2,Dehydration,47
+21,Female,1,Abdominal Pain,6
+57,Female,3,Chest Pain,20
+36,Female,1,Severe Bleeding,13
+21,Male,2,Severe Injury,46
+76,Female,2,Trauma,39
+59,Male,1,Severe Bleeding,4
+24,Male,3,Vomiting,36
+72,Female,4,Nausea,13
+45,Male,3,Nausea,18
+54,Female,3,Headache,22
+68,Male,1,Dizziness,6
+45,Male,3,Sprain,25
+33,Male,4,Broken Bone,18
+40,Male,4,Fracture,12
+82,Female,1,Severe Injury,15
+23,Female,1,Vomiting,3
+58,Female,4,Heart Attack,25
+71,Female,1,Severe Injury,2
+59,Male,4,Heart Attack,16
+29,Female,1,Fever,8
+69,Male,4,Sprain,15
+46,Female,2,Shortness of Breath,52
+32,Male,3,Trauma,38
+36,Male,1,Severe Bleeding,6
+43,Male,2,Wound Infection,24
+40,Female,4,Wound Infection,23
+75,Female,3,Severe Bleeding,29
+26,Female,4,Seizure,14
+53,Male,3,Asthma Attack,17
+57,Female,4,Headache,6
+65,Female,1,Seizure,15
+29,Female,4,Burns,22
+23,Female,2,Cut/Laceration,58
+78,Male,1,Vomiting,3
+61,Male,2,Headache,35
+74,Female,2,Trauma,43
+54,Female,4,Wound Infection,15
+24,Female,1,Cut/Laceration,3
+67,Female,3,Broken Bone,42
+37,Female,1,Burns,12
+36,Female,3,Seizure,37
+68,Male,1,Sprain,10
+66,Female,2,Stroke,53
+29,Female,3,Chest Pain,26
+57,Male,2,Cut/Laceration,51
+42,Male,2,Severe Bleeding,24
+55,Male,1,Stroke,7
+34,Female,2,Abdominal Pain,31
+39,Female,1,Nausea,7
+48,Female,3,Wound Infection,38
+75,Male,2,Sprain,50
+42,Female,4,Vomiting,14
+66,Female,2,Dizziness,58
+35,Female,1,Seizure,9
+65,Male,1,Sprain,3
+38,Female,4,Asthma Attack,9
+73,Male,2,Vomiting,42
+21,Female,1,Severe Injury,10
+65,Male,4,Shortness of Breath,16
+46,Male,3,Minor Injury,41
+60,Male,2,Headache,38
+78,Male,4,Vomiting,24
+18,Male,1,Back Pain,5
+37,Female,1,Wound Infection,6
+48,Female,1,Headache,5
+71,Female,1,Minor Injury,15
+81,Male,2,Heart Attack,29
+55,Female,1,Poisoning,7
+48,Female,2,Stroke,25
+85,Female,1,Asthma Attack,10
+82,Male,4,Allergic Reaction,6
+67,Female,3,Broken Bone,15
+63,Male,3,Fever,38
+31,Female,2,Headache,42
+61,Male,4,Heart Attack,20
+41,Male,1,Heart Attack,14
+76,Male,3,Dizziness,16
+43,Male,3,Sprain,31
+68,Female,3,Headache,39
+42,Female,3,Wound Infection,16
+60,Female,1,Dehydration,7
+73,Female,4,Severe Injury,15
+41,Female,4,Trauma,21
+52,Male,4,Shortness of Breath,18
+41,Female,3,Minor Injury,17
+59,Female,3,Vomiting,34
+72,Male,4,Trauma,19
+23,Female,4,Back Pain,25
+25,Male,4,Trauma,21
+38,Male,2,Poisoning,48
+22,Male,1,Fever,14
+64,Female,4,Burns,6
+37,Female,3,Trauma,29
+27,Male,3,Severe Injury,25
+53,Male,1,Chest Pain,13
+41,Female,4,Fracture,8
+51,Female,4,Dizziness,24
+54,Female,2,Minor Injury,28
+27,Female,2,Heart Attack,48
+29,Female,3,Heart Attack,17
+55,Female,2,Heart Attack,60
+40,Female,2,Minor Injury,32
+35,Male,4,Chest Pain,16
+65,Female,2,Poisoning,25
+26,Female,4,Heart Attack,20
+85,Female,4,Burns,7
+34,Female,1,Vomiting,9
+84,Female,2,Wound Infection,55
+41,Male,4,Asthma Attack,6
+33,Male,3,Abdominal Pain,20
+59,Male,3,Asthma Attack,43
+54,Male,3,Dizziness,35
+53,Male,3,Poisoning,32
+29,Male,2,Abdominal Pain,59
+61,Male,1,Shortness of Breath,2
+51,Male,4,Poisoning,25
+21,Female,3,Seizure,45
+56,Female,2,Dehydration,45
+56,Female,1,Heart Attack,2
+38,Female,4,Allergic Reaction,19
+44,Female,2,Cut/Laceration,40
+62,Female,2,Wound Infection,43
+83,Male,3,Fever,29
+33,Female,4,Fever,9
+30,Male,3,Severe Injury,42
+71,Male,2,Cut/Laceration,56
+58,Male,2,Allergic Reaction,52
+77,Female,3,Allergic Reaction,15
+29,Female,4,Fever,11
+63,Male,1,Sprain,9
+78,Female,1,Minor Injury,8
+35,Female,3,Wound Infection,27
+64,Male,4,Headache,23
+42,Female,3,Shortness of Breath,27
+82,Female,3,Poisoning,36
+33,Male,1,Severe Injury,7
+61,Female,2,Dizziness,58
+83,Female,1,Headache,2
+35,Female,4,Asthma Attack,19
+37,Male,3,Poisoning,25
+38,Female,3,Burns,25
+82,Female,3,Allergic Reaction,41
+20,Female,3,Stroke,18
+71,Female,1,Poisoning,9
+51,Male,1,Burns,9
+39,Female,2,Stroke,35
+22,Male,2,Chest Pain,48
+58,Female,2,Nausea,33
+70,Female,1,Heart Attack,4
+84,Male,3,Stroke,30
+85,Female,3,Abdominal Pain,29
+61,Female,3,Poisoning,30
+42,Male,3,Fracture,24
+46,Female,3,Heart Attack,21
+80,Female,4,Trauma,22
+53,Female,1,Burns,12
+66,Female,3,Wound Infection,40
+36,Female,1,Sprain,13
+28,Female,4,Seizure,13
+79,Male,2,Fracture,37
+52,Male,1,Poisoning,13
+48,Male,1,Stroke,10
+46,Male,1,Minor Injury,8
+60,Female,1,Stroke,14
+35,Male,2,Nausea,50
+79,Male,3,Cut/Laceration,24
+25,Male,2,Fracture,22
+40,Female,2,Headache,45
+81,Male,3,Headache,15
+56,Male,3,Sprain,29
+85,Female,2,Asthma Attack,49
+52,Male,1,Cut/Laceration,4
+76,Female,2,Chest Pain,41
+55,Male,2,Poisoning,60
+69,Female,3,Shortness of Breath,27
+30,Male,2,Allergic Reaction,40
+49,Male,3,Severe Injury,22
+75,Female,3,Sprain,33
+19,Female,3,Heart Attack,22
+25,Male,4,Sprain,10
+69,Female,1,Seizure,6
+65,Male,2,Severe Bleeding,50
+37,Female,3,Nausea,37
+78,Male,2,Stroke,58
+28,Female,3,Shortness of Breath,44
+32,Male,2,Burns,54
+37,Male,3,Asthma Attack,29
+32,Male,4,Shortness of Breath,21
+75,Male,4,Severe Bleeding,21
+71,Female,1,Fracture,9
+57,Male,4,Back Pain,5
+45,Male,1,Nausea,7
+26,Male,1,Allergic Reaction,2
+54,Female,2,Wound Infection,28
+71,Female,4,Vomiting,17
+66,Male,2,Seizure,42
+33,Male,4,Asthma Attack,9
+46,Male,1,Sprain,9
+72,Female,2,Fever,49
+62,Male,3,Dizziness,44
+32,Male,4,Poisoning,5
+48,Male,1,Minor Injury,11
+22,Female,1,Fever,13
+23,Female,4,Fever,22
+45,Male,2,Asthma Attack,38
+47,Female,3,Fever,24
+36,Male,4,Sprain,13
+25,Male,4,Fracture,20
+24,Female,4,Dehydration,21
+58,Female,4,Severe Bleeding,14
+66,Male,4,Fever,12
+56,Male,4,Headache,22
+70,Female,2,Severe Injury,35
+50,Male,3,Seizure,17
+75,Female,1,Fracture,13
+42,Male,3,Severe Injury,36
+23,Male,2,Dehydration,57
+45,Female,2,Cut/Laceration,39
+19,Male,2,Broken Bone,27
+79,Male,2,Severe Injury,35
+59,Female,4,Vomiting,22
+63,Female,3,Trauma,31
+81,Female,1,Dehydration,13
+78,Female,2,Trauma,40
+70,Male,2,Broken Bone,29
+20,Female,4,Sprain,9
+43,Female,2,Severe Injury,56
+49,Female,3,Back Pain,39
+80,Female,4,Abdominal Pain,16
+39,Male,4,Abdominal Pain,22
+25,Male,1,Stroke,2
+18,Female,2,Seizure,34
+26,Male,1,Dizziness,10
+76,Female,1,Poisoning,12
